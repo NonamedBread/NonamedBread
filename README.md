@@ -22,6 +22,10 @@
 <div align ="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NonamedBread&show_icons=true&theme=blueberry)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NonamedBread&langs_count=7&layout=compact&theme=dark)](https://github.com/NonamedBread/NonamedBread)
+
+
+
 # Under construction
   
 </div>
