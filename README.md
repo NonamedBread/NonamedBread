@@ -6,6 +6,8 @@
 
 </div>
 
+<br />
+
 <div align="right">
   
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black"/></a>
@@ -13,20 +15,35 @@
 
 </div>
 
+<br />
+
 <div align="right">
   
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=black"/></a>
 
 </div>
 
-<div></div>
+<br />
 
 <div align ="center">
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NonamedBread&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/NonamedBread/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonamedBread&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<br />
 
-# Under construction
+  ### Top Repositories
+
+
+<a href="https://github.com/NonamedBread/BEB_02_pirea-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NonamedBread&repo=BEB_02_pirea-1&theme=buefy" />
+</a>
+<a href="https://github.com/NonamedBread/beb-02-hypebear">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NonamedBread&repo=beb-02-hypebear&theme=buefy" />
+</a>
+
+  
+<br />
+
   
 </div>
