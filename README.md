@@ -42,7 +42,7 @@
 
 <div align ="center">
 
-  ###  My states & favorite Languages :eyes: 
+  ###  My states & Used Languages :eyes: 
   
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NonamedBread&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/NonamedBread/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonamedBread&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
