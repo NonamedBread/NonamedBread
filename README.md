@@ -1,4 +1,15 @@
+
+<div>
+  
+
+  
+</div>
+
 <div align="right">
+  
+  ### :wrench: Tech stack :hammer:  
+  
+### Frontend
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"/></a>
@@ -6,19 +17,19 @@
 
 </div>
 
-<br />
 
 <div align="right">
   
+### Backend  
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"/></a>
 
 </div>
 
-<br />
 
 <div align="right">
   
+### Blockchain  
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=black"/></a>
 
 </div>
