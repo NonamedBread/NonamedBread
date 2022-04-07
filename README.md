@@ -32,7 +32,12 @@
 
 <br />
 
-
+<a href="https://github.com/codestates/BEB_02_pirea">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codestates&repo=BEB_02_pirea&theme=buefy" />
+</a>
+<a href="https://github.com/codestates/beb-02-hypebear">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codestates&repo=beb-02-hypebear&theme=buefy" />
+</a>
 
   
 <br />
