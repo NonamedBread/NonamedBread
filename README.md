@@ -32,15 +32,7 @@
 
 <br />
 
-  ### Top Repositories
 
-
-<a href="https://github.com/NonamedBread/BEB_02_pirea-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NonamedBread&repo=BEB_02_pirea-1&theme=buefy" />
-</a>
-<a href="https://github.com/NonamedBread/beb-02-hypebear">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NonamedBread&repo=beb-02-hypebear&theme=buefy" />
-</a>
 
   
 <br />
