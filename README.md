@@ -23,6 +23,9 @@
 
 </div>
 
+
+
+----
 <br />
 
 <div align ="center">
@@ -30,7 +33,19 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NonamedBread&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/NonamedBread/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonamedBread&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+</div>
 <br />
+
+----
+
+
+<br />
+<div align ="center">
+  
+  
+  ### Top Repositories
+  
+  <br />
 
 <a href="https://github.com/codestates/BEB_02_pirea">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codestates&repo=BEB_02_pirea&theme=buefy" />
@@ -39,8 +54,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codestates&repo=beb-02-hypebear&theme=buefy" />
 </a>
 
-  
+</div>
+
 <br />
 
-  
-</div>
