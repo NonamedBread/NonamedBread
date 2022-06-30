@@ -1,10 +1,3 @@
-
-<div>
-  
-
-  
-</div>
-
 <div align="right">
   
  
