@@ -1,5 +1,5 @@
 <div align="left">
-  <p><strong>I used the following stacks </strong></p>
+  <p><strong>I used the following stacks ✨ </strong></p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
