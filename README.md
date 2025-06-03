@@ -1,7 +1,6 @@
 ### My Tech Interests & Stacks 🚀
 
-I’m currently focused on **Next.js**, **TypeScript**, and **Flutter**. Below are the tools and technologies I’ve worked with:
-
+I'm passionate about building modern, scalable applications with a focus on **Next.js**, **TypeScript**, and **Flutter**. I'm also diving deep into **React Native** to create seamless mobile experiences. Here's a rundown of the tools and technologies I work with:
 #### Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black"/> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=black"/> <img src="https://img.shields.io/badge/Zustand-543A2F?style=for-the-badge&logo=zustand&logoColor=white"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/> <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
 
